@@ -30,7 +30,7 @@ export default function AboutPage() {
           title="A Legacy of Discipline and Academic Excellence"
           description={`Registered in ${SCHOOL.registeredYear}, Messa Secondary School is a private boarding and day school in Buhongwa Ward, Mwanza City Council.`}
           crumbs={[{ label: "About" }]}
-          image="https://images.unsplash.com/photo-1580582932707-520aed937b7b?q=80&w=2000&auto=format&fit=crop"
+          image="https://images.unsplash.com/photo-1622758940712-d946ce143bbf?q=80&w=464&auto=format&fit=crop"
           imageAlt="Messa Secondary School campus building"
         />
 
