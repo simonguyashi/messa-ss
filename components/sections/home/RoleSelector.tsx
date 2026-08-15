@@ -13,9 +13,9 @@ const ICONS: Record<string, LucideIcon> = { Users2, Backpack, ClipboardList, Gra
 // instead of scrolling through content meant for someone else.
 export function RoleSelector() {
   return (
-    <section className="relative -mt-8 md:-mt-10">
+    <section className="relative bg-mist py-8 md:py-10">
       <Container>
-        <div className="rounded-2xl border border-navy-100 bg-white p-5 shadow-premium md:p-7">
+        <div className="rounded-2xl border border-navy-100 bg-white p-5 shadow-soft md:p-7">
           <p className="text-sm font-semibold text-navy-900">I am a...</p>
           <div className="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-6">
             {ROLES.map((role, i) => {
