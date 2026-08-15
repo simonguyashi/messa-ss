@@ -23,7 +23,7 @@ export default function ParentsPage() {
           title="Everything for Parents & Guardians"
           description="Fees, announcements, meetings and communication — how to stay informed about your child's progress."
           crumbs={[{ label: "Parents" }]}
-          image="https://images.unsplash.com/photo-1541958767940-9de6e35c7dfa?q=80&w=2000&auto=format&fit=crop"
+          image="https://images.unsplash.com/photo-1758270704113-9fb2ac81788f?q=80&w=1031&auto=format&fit=crop"
           imageAlt="School assembly event at Messa Secondary School"
         />
 
